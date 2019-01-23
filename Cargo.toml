@@ -3,5 +3,6 @@ name = "hcontext"
 version = "0.1.0"
 authors = ["sosik"]
 edition = "2018"
-
+description = "Hierarchical context"
+license = "MIT"
 [dependencies]
