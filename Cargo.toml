@@ -5,4 +5,9 @@ authors = ["sosik"]
 edition = "2018"
 description = "Hierarchical context"
 license = "MIT"
+
 [dependencies]
+
+[badges]
+travis-ci = { repository = "sosik/hcontext", branch = "master" }
+maintenance = { status = "experimental" }
